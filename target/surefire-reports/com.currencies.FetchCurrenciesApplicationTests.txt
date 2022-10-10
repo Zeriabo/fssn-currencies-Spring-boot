@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.currencies.FetchCurrenciesApplicationTests
--------------------------------------------------------------------------------
-Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.131 s - in com.currencies.FetchCurrenciesApplicationTests
