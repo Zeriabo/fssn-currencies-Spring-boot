@@ -6,6 +6,12 @@ alternatively run by docker following the steps:
 
 2. docker run -p8887:8080 fssnrate:latest 
 
+Or 
+ 
+you can run it by SpringToolSuite4.
+
+Errors are shown in the log.
+
 Application:
 
 1. Finnish social security number verification:
