@@ -1,10 +1,10 @@
-run the java application by executing from the root folder: java -jar target/fetch-Currencies-0.0.1.jar
+run the java application by executing from the root folder: java -jar target/fssn-exchangerate-0.0.1.jar
 
 alternatively run by docker following the steps:
 
-1. docker build --tag=test-server:latest .
+1.  docker build --tag=fssnrate:latest .
 
-2. docker run -p 8888:8080 test-server:latest
+2. docker run -p8887:8080 fssnrate:latest 
 
 Application:
 
