@@ -32,3 +32,5 @@ Application:
      "to":"USD",
      "from_amount":2000
      }
+
+Please note that if the app returns this JSON  "message": "You cannot consume this service" you need to update the apiKey variable in ExchangeRateResponse class with a valid one
