@@ -16,7 +16,7 @@ Application:
 
 1. Finnish social security number verification:
 
-   - use postman by making a post request to: http://localhost:8888/fssn/validate
+   - use postman to make a post request to: http://localhost:8888/fssn/validate
    - place the JSON data in the body as the following example where d represent a digit and L represent a Capital letter:
      {
      "ssn":"dddddd-dddL",
