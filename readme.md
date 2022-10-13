@@ -25,7 +25,7 @@ Application:
 
 2. Exchange amount :
 
-   - use postman by making a post request to: localhost:8888/exchange_amount
+   - use postman to make a post request to: localhost:8888/exchange_amount
    - place the JSON data in the body as the following example :
      {
      "from":"EUR",
